@@ -10,6 +10,8 @@ The scope of 'Product Benchmark' includes a wide array of products, ranging from
 ### Related Links
 
 [Product Design Analysis](https://github.com/sourceduty/Product_Design_Analysis)
+<br>
+[Standard Industry](https://chatgpt.com/g/g-u8G59DH4i-standard-industry)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
